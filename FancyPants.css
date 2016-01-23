@@ -1,0 +1,68 @@
+﻿html {
+
+  background: #00d0ff; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(left top, #ffffff, #00d0ff, #0008a4); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(bottom right, #ffffff, #00d0ff, #0008a4); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(bottom right, #ffffff, #00d0ff, #0008a4); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to bottom right, #ffffff, #00d0ff, #0008a4); /* Standard syntax */
+  
+  text-align:center;    
+  /* #ffffff, #00d0ff, #0008a4 */
+  min-height:100%;
+
+}
+
+h1 {
+
+    font-family:Arvo;
+    font-size:100px;
+
+    background: -webkit-linear-gradient(#dd00ff, #6800ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+
+h2 {
+
+    font-family:Arvo;
+    font-size:25px;
+
+    background: -webkit-linear-gradient(#dd00ff, #6800ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+
+h3 {
+
+    font-family:Arvo;
+    font-size:40px;
+
+    background: -webkit-linear-gradient(#dd00ff, #6800ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+
+#fail {
+
+    color:red;
+    font-family:Arvo;
+    font-size:150px;
+
+}
+
+a:hover {
+
+    background: -webkit-linear-gradient(#ff0000, #ff7500);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+
+img {
+
+    padding:10px;
+
+}
